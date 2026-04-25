@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ RoadZen
+# RoadZen
 
 ### AI-Powered Traffic Safety Intelligence Platform
 
